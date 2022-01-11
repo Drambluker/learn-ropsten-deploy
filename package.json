@@ -1,0 +1,26 @@
+{
+  "name": "learn-ropsten-deploy",
+  "version": "0.0.1",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "truffle test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Drambluker/learn-ropsten-deploy.git"
+  },
+  "author": "Eric Vlaskin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Drambluker/learn-ropsten-deploy/issues"
+  },
+  "homepage": "https://github.com/Drambluker/learn-ropsten-deploy#readme",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.0.0",
+    "fs": "^0.0.1-security"
+  }
+}

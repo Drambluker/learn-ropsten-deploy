@@ -1,4 +1,6 @@
 .idea
+.secret
+.infura
 
 # dependencies
 node_modules
